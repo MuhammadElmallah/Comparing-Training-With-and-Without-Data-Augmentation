@@ -5,7 +5,7 @@ In the project I will use the Flowers-17 dataset, a very small dataset that only
 
 AS Known, when applying deep learning to computer vision tasks it is optimal to have 1,000-5,000 examples per class. This means we have a very big problem of data shortage that we are trying to solve using data augmentation.
 
-We will do to experiments:
+We will do two experiments:
 
 1. Train MiniVGGNet on Flowers-17 without data augmentation.
 
